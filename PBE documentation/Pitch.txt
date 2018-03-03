@@ -1,0 +1,9 @@
+We wanted to create a game that could be both fun and useful for learning piano. 
+Playing by ear, the name of the game, is a skill not everyone can develop naturally that is
+also not taught by piano teachers, but play by ear can be an invaluable skill to learn.
+
+Using this program, we want to help piano students to memorize notes of the piano, through 
+intervals and chords, by repetition via copying. The keys play a sound that the student must 
+relay by memory as well as trial and error. Over time, the student will rely on the memory of sound and associate it
+with the keys being played, and after gaining confidence learning keys, they can choose to learn chords.
+We hope that with learning basic keys and chords by ear it will ease learning of written music.
