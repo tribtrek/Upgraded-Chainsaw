@@ -1,8 +1,8 @@
 {
-    "id": "dfcbbb99-ea65-4678-b800-bb32d1886ed6",
+    "id": "881c49bc-e1f1-45dd-b949-870b21deb306",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_Bb_long",
+    "name": "snd_C5_short",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
