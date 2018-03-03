@@ -3,7 +3,7 @@
 
 song = "null";
 
-playerSong = "null";
+playerSong = "";
 
 numberOfInputs = 0;
 
