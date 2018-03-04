@@ -535,11 +535,27 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "cd6cd346-bfd1-45d7-852d-0f7af070daa5",
             "Value": {
                 "id": "e353b9f4-92df-462b-9efd-6597cb52db6b",
                 "resourcePath": "scripts\\scr_play_game\\scr_play_game.yy",
                 "resourceType": "GMScript"
+=======
+            "Key": "d18d3c47-c4d7-4fac-80fb-cb639afb0b9a",
+            "Value": {
+                "id": "8a00b953-c210-4e6e-b0e6-365fbcbe784c",
+                "resourcePath": "objects\\obj_mode_chords\\obj_mode_chords.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d2c8bbb0-fc48-4382-a63a-55782cb68eb2",
+            "Value": {
+                "id": "0d05988a-3bc0-411e-a9ea-e9f9486ea8f7",
+                "resourcePath": "objects\\obj_mode_intervals\\obj_mode_intervals.yy",
+                "resourceType": "GMObject"
+>>>>>>> 526f1fa7081b3c28420214be3918bcde966db9fd
             }
         },
         {
