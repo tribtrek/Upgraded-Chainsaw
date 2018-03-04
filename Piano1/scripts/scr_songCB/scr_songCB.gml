@@ -23,11 +23,13 @@ if(firstPlayed == false) {
 
 if (obj_controller.playerSong == stringCB) {
 	songState = songList.sucess;
-	
+	successOut = "C B";
 	}
 
 else if (string_length(obj_controller.playerSong) >= string_length( stringCB ) )
-{	songState = songList.failure;}
+{	songState = songList.failure;
+	successOut = "C B";
+	}
 
 
 

@@ -5,6 +5,7 @@
 show_debug_message("YAY");
 instance_activate_object(obj_success);
 
+
 if( !(audio_is_playing (snd_A_short)  || audio_is_playing (snd_Ab_short ) || 
 	audio_is_playing (snd_B_short)  || audio_is_playing (snd_Bb_short)  ||
 	audio_is_playing (snd_C4_short) || 
@@ -36,22 +37,3 @@ if( !(audio_is_playing (snd_A_short)  || audio_is_playing (snd_Ab_short ) ||
 
 /*
 
-
-
-if (playOnce == false){
-	
-if(firstPlayed == false) {
-	audio_play_sound( snd_C4_short, 1, false );
-	firstPlayed = true;
-}
-	if(!audio_is_playing( snd_C4_short ) && !secondPlayed) {
-		audio_play_sound( snd_C5_short, 1, false );
-		secondPlayed = true;
-		show_debug_message("SECOND PLAYED");
-	}
-	
-	if( secondPlayed == true ) {
-		playOnce = true;
-		show_debug_message("PLAY ONCE");
-	}
-}

@@ -5,6 +5,9 @@ instance_activate_object(obj_failure);
 
 if( obj_controller.retry = true )
 {
+	
+	
+	
 	retry = false;
 	show_debug_message( "failure check");
 	

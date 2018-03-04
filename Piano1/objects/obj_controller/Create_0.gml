@@ -6,6 +6,8 @@ song = "null";
 
 playerSong = "";
 
+successOut = "";
+
 numberOfInputs = 0;
 firstPlayed = false;
 secondPlayed = false;

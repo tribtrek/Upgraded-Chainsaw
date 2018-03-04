@@ -27,10 +27,11 @@ NumberOfInputs = 0
 if (obj_controller.playerSong == stringCD)
 {
 	songState = songList.sucess;
-	
+	successOut = "C D"
 }
 
 else if (string_length(obj_controller.playerSong) >= string_length( stringCD ) )
-{	songState = songList.failure;}
+{	songState = songList.failure;
+	successOut = "C D";}
 
 
