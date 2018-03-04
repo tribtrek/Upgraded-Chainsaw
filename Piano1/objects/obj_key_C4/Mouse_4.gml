@@ -13,6 +13,7 @@ if( position_meeting(mouse_x, mouse_y, obj_key_C4)
 
 		with( obj_controller ) {
 			playerSong = playerSong + other.keyName;
+			numberOfInputs ++;
 		}
 	}
 
