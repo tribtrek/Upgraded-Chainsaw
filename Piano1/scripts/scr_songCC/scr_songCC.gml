@@ -1,7 +1,7 @@
 
 // play the song
 
-stringCC = "CC";
+stringCC = "C4C5";
 
 
 
