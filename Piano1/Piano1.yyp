@@ -447,6 +447,22 @@
             }
         },
         {
+            "Key": "d18d3c47-c4d7-4fac-80fb-cb639afb0b9a",
+            "Value": {
+                "id": "8a00b953-c210-4e6e-b0e6-365fbcbe784c",
+                "resourcePath": "objects\\obj_mode_chords\\obj_mode_chords.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d2c8bbb0-fc48-4382-a63a-55782cb68eb2",
+            "Value": {
+                "id": "0d05988a-3bc0-411e-a9ea-e9f9486ea8f7",
+                "resourcePath": "objects\\obj_mode_intervals\\obj_mode_intervals.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d3767122-3d7e-4d01-8ace-7174525817d1",
             "Value": {
                 "id": "b43472ed-0587-49b3-a8da-80d3253e442c",
